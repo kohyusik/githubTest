@@ -12,5 +12,4 @@ var app = express();
 app.use(express.static(path.join(__dirname, 'public')));
 
 
-
-
+console.log('test1');
