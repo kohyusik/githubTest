@@ -13,3 +13,4 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 
 console.log('test1');
+console.log('Login!');
